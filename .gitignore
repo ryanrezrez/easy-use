@@ -1,0 +1,11 @@
+__pycache__
+*.ini
+*.bak
+wildcards/**
+styles/**
+workflow/**
+autocomplete/**
+docs/**
+.vscode/
+.idea/
+mmb-preset.custom.txt
